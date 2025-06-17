@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+scikit-learn
+openai
+fastapi
+uvicorn
+streamlit
+faiss-cpu
